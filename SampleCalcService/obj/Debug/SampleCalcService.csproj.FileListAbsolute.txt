@@ -1,0 +1,7 @@
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\bin\Debug\SampleCalcService.dll.config
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\bin\Debug\SampleCalcService.dll
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\bin\Debug\SampleCalcService.pdb
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\obj\Debug\SampleCalcService.csprojAssemblyReference.cache
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\obj\Debug\SampleCalcService.csproj.CoreCompileInputs.cache
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\obj\Debug\SampleCalcService.dll
+C:\workspace\Lab\WCF\SampleCalcService\SampleCalcService\obj\Debug\SampleCalcService.pdb
