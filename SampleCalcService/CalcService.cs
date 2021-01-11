@@ -17,5 +17,10 @@ namespace SampleCalcService
         {
             return (a+b);
         }
+
+        public int GetTotal(int a, int b) {
+
+            return ((a * a) + (b * b));
+        }
     }
 }

@@ -14,5 +14,8 @@ namespace SampleCalcService
 
         [OperationContract]
         int GetMul(int a, int b);
+
+        [OperationContract]
+        int GetTotal(int a, int b);
     }
 }
