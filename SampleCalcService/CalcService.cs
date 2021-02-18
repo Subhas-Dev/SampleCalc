@@ -22,5 +22,10 @@ namespace SampleCalcService
 
             return ((a * a) + (b * b));
         }
+        
+         public int GetRemainder(int a, int b) {
+
+            return a;
+        }
     }
 }
